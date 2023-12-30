@@ -1,8 +1,6 @@
-# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
-# BY: VIGNESH.V
-# REGISTER NUMBER : 23004027
-
-# Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp 03 Implementation of Half Adder and Full Adder circuit
+# BY:VIGNESH.V
+# REGISTER NUMBER:23004027
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
